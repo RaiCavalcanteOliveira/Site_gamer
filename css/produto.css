@@ -1,0 +1,334 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Candal&family=Coda+Caption&family=Lalezar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Candal&family=Coda+Caption&family=Lalezar&family=Roboto&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#containermain .produtos {
+
+    display: flex;
+    background-color: #16082f;
+    flex-direction: column;
+    box-shadow: inset 0 0 1em rgb(255, 0, 234), 0 0 1em rgb(191, 12, 245);
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    border-radius: 15px;
+    border: 1px solid;
+    border-color: white;
+    gap: 2%;
+
+
+
+}
+
+
+#containermain .produtos #jogo1 {
+    width: 80%;
+    background-color: rgb(7, 3, 63);
+    height: 180px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: inset 0 0 1em rgb(255, 0, 234), 0 0 1em rgb(191, 12, 245);
+    border-radius: 15px;
+    border: 1px solid;
+    border-color: white;
+
+}
+#containermain .produtos #jogo1 img{
+  padding-left: 2%;
+  padding-top: 25px;
+ 
+}
+
+#containermain .produtos #jogo1:hover{
+    background: url(..//_imagens/fundodegalaxiaroxo.jpg) ;
+    background-repeat: repeat;
+    margin-top: 10px;
+    transition: 2.5s;
+
+}
+
+#containermain .produtos #jogo2 {
+    width: 80%;
+    background-color: rgb(7, 3, 63);
+    height: 180px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: inset 0 0 1em rgb(255, 0, 234), 0 0 1em rgb(191, 12, 245);
+    border-radius: 15px;
+    border: 1px solid;
+    border-color: white
+    
+}
+
+#containermain .produtos #jogo2 img{
+    padding-left: 2%;
+    padding-top: 25px;
+   
+  }
+
+#containermain .produtos #jogo2:hover{
+    background: url(..//_imagens/fundodegalaxiaroxo.jpg) ;
+    background-repeat: repeat;
+    margin-top: 10px;
+    transition: 2.5s;
+}
+
+#containermain .produtos #jogo3 {
+    width: 80%;
+    background-color: rgb(7, 3, 63);
+    height: 180px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: inset 0 0 1em rgb(255, 0, 234), 0 0 1em rgb(191, 12, 245);
+    border-radius: 15px;
+    border: 1px solid;
+    border-color: white
+}
+
+#containermain .produtos #jogo3 img{
+    padding-left: 2%;
+    padding-top: 25px;
+   
+  }
+
+#containermain .produtos #jogo3:hover{
+    background: url(..//_imagens/fundodegalaxiaroxo.jpg) ;
+    background-repeat: repeat;
+    margin-top: 10px;
+    transition: 2.5s;
+}
+
+#containermain .produtos #jogo4 {
+    width: 80%;
+    background-color: rgb(7, 3, 63);
+    height: 180px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: inset 0 0 1em rgb(255, 0, 234), 0 0 1em rgb(191, 12, 245);
+    border-radius: 15px;
+    border: 1px solid;
+    border-color: white
+}
+
+#containermain .produtos #jogo4 img{
+    padding-left: 2%;
+    padding-top: 25px;
+   
+  }
+#containermain .produtos #jogo4:hover{
+    background: url(..//_imagens/fundodegalaxiaroxo.jpg) ;
+    background-repeat: repeat;
+    margin-top: 10px;
+    transition: 2.0s;
+}
+
+#containermain .produtos #jogo5 {
+    width: 80%;
+    background-color: rgb(7, 3, 63);
+    height: 180px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: inset 0 0 1em rgb(255, 0, 234), 0 0 1em rgb(191, 12, 245);
+    border-radius: 15px;
+    border: 1px solid;
+    border-color: white
+}
+
+
+#containermain .produtos #jogo5 img{
+    padding-left: 2%;
+    padding-top: 25px;
+   
+  }
+#containermain .produtos #jogo5:hover{
+    background: url(..//_imagens/fundodegalaxiaroxo.jpg) ;
+    background-repeat: repeat;
+    margin-top: 10px;
+    transition: 2.5s;
+}
+
+#containermain .produtos #jogo6 {
+    width: 80%;
+    background-color: rgb(7, 3, 63);
+    height: 180px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: inset 0 0 1em rgb(255, 0, 234), 0 0 1em rgb(191, 12, 245);
+    border-radius: 15px;
+    border: 1px solid;
+    border-color: white
+}
+
+
+#containermain .produtos #jogo6 img{
+    padding-left: 2%;
+    padding-top: 25px;
+   
+  }
+
+#containermain .produtos #jogo6:hover{
+    background: url(..//_imagens/fundodegalaxiaroxo.jpg) ;
+    background-repeat: repeat;
+    margin-top: 10px;
+    transition: 2.5s;
+}
+
+
+#containermain .produtos #jogo7 {
+    width: 80%;
+    background-color: rgb(7, 3, 63);
+    height: 180px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: inset 0 0 1em rgb(255, 0, 234), 0 0 1em rgb(191, 12, 245);
+    border-radius: 15px;
+    border: 1px solid;
+    border-color: white
+}
+
+
+#containermain .produtos #jogo7 img{
+    padding-left: 2%;
+    padding-top: 25px;
+   
+  }
+
+#containermain .produtos #jogo7:hover{
+    background: url(..//_imagens/fundodegalaxiaroxo.jpg) ;
+    background-repeat: repeat;
+    margin-top: 10px;
+    transition: 2.5s;
+}
+
+#containermain .produtos .display {
+    display: flex;
+    flex-direction: row;
+}
+
+#containermain .produtos .display #textojogo {
+    padding-top: 20px;
+    padding-left: 70px;
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+    letter-spacing: 1px;
+   font-size: 15px;
+
+
+}
+
+
+
+#containermain .produtos .display #movecomprar {
+    padding-top: 120px;
+    padding-left: 100px;
+}
+
+#containermain .produtos .display a {
+    text-decoration: none;
+    position: absolute;
+    font-family: 'Candal', sans-serif;
+    color: white;
+    background-color: rgb(0, 132, 255);
+    border-radius: 15px;
+    border: 15px solid rgb(0, 132, 255);
+ 
+}
+#containermain .produtos .display a:hover{
+    background-color:rgb(49, 230, 25); 
+    border-color: rgb(49, 230, 25); ;
+}
+
+
+
+.genero{
+    font-size: 20px;
+}
+
+.preço{
+    color: rgb(49, 230, 25);
+}
+
+#outrasabasdacategoria{
+    
+    display: flex;
+    color: white;
+    background-color: #16082f;
+    margin: 0 auto;
+    width: 78%;
+    border-radius: 15px;
+    height: 70px;
+    box-shadow: inset 0 0 1em rgb(255, 0, 234), 0 0 1em rgb(191, 12, 245);
+    border: 1px solid white;
+    margin-top: 2%;
+    justify-content: left ;
+    align-items: center;
+    padding-left: 3%;
+    gap: 3%;
+ 
+    
+  
+}
+
+
+.elementosaba{
+    padding-top: 1%;
+    padding-left: 1%;
+    width: 2%;
+    background-color:rgb(0, 132, 255);
+    border-radius: 40px;
+    height: 30px;
+    border-color: #fff;
+    border: 1px solid;
+}
+.elementosaba:hover{
+    background-color: rgb(49, 230, 25);
+    cursor:pointer;
+
+    
+}
+
+.elementosaba a{
+   
+   
+    text-decoration: none;
+    font-family: 'Candal', sans-serif;
+    color: white;
+    
+    
+}
+
+
+#containermain #generodestaquetopomain{
+    background-color: #16082f;
+    box-shadow: inset 0 0 1em rgb(255, 0, 234), 0 0 1em rgb(191, 12, 245);
+    border: 1px solid white;
+    margin: 0 auto;
+    margin-top: 2%;
+    width: 80%;
+    border-radius: 15px;
+    height: 70px;
+  
+}
+#containermain #generodestaquetopomain h1{
+    font-family: 'Candal', sans-serif;
+    color: white;
+    text-shadow: 0 0 4px #fff;
+    text-align: center;
+    padding-top: 1%;
+}
+
+
+
+@media(max-width:620px){
+    .containerfooter{
+        justify-content: center;
+        gap: 1%;
+    }
+
+}

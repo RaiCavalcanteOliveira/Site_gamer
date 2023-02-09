@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.envolvepartesdapaginajogo{
+  
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    column-gap: 8%;
+    background-color: #16082f;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding-top: 20px;
+    width: 90%;
+    border-radius: 15px;
+    box-shadow: inset 0 0 1em rgb(255, 0, 234), 0 0 1em rgb(191, 12, 245);
+    border: 2px solid #fff;
+}
+
+.envolvepartesdapaginajogo .parte1jogo{
+
+ display: flex;
+ flex-direction: column;
+  row-gap: 20px;
+  width: 60%;
+  padding-left: 5%;
+  padding-top: 2%;
+  
+  
+}
+
+.envolvepartesdapaginajogo .parte2jogo{
+     width: 30%;
+    
+   
+   }
+
+.envolvepartesdapaginajogo .parte1jogo #divdaparte1{
+ 
+ border-radius: 15px;
+ 
+
+ 
+
+}
+
+
+.envolvepartesdapaginajogo .parte1jogo #divdaparte1 iframe{
+ 
+  width: 110%;
+  height: 500px;
+  border-radius: 15px;
+  box-shadow: inset 0 0 1em rgb(255, 0, 234), 0 0 1em rgb(191, 12, 245);
+  border: 2px solid #fff;
+
+}
+.envolvepartesdapaginajogo .parte1jogo #divdaparte2{
+
+  border-radius: 15px;
+  }
+  .envolvepartesdapaginajogo .parte1jogo #divdaparte2 p{
+   color: white;
+   font-family: Inter,sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: -0.2px;
+
+
+  }
+
+
+  .envolvepartesdapaginajogo .parte1jogo #divdaparte3 .titulos{
+    color: white;
+    font-family: Inter,sans-serif;
+     font-weight: normal;
+     font-size: 20px;
+     line-height: 28px;
+     letter-spacing: -0.2px;
+     padding-left: 4%;
+ 
+
+  }
+
+  .envolvepartesdapaginajogo .parte1jogo #divdaparte3 p{
+    color: white;
+    font-family: Inter,sans-serif;
+     font-weight: normal;
+     font-size: 18px;
+     line-height: 28px;
+     letter-spacing: -0.2px;
+     padding-left: 4%;
+    
+ 
+   }
+   
+
+
+  
+
+  .envolvepartesdapaginajogo .parte1jogo #divdaparte5{
+   
+  background-color: greenyellow;
+  border-radius: 15px;
+  }
+
+  .envolvepartesdapaginajogo .parte1jogo #divdaparte6{
+
+    background-color: blue;
+  border-radius: 15px;
+  }
+  .envolvepartesdapaginajogo .parte2jogo{
+    background-color: #16082f;
+   height: 100%;
+   border-radius: 15px;
+   box-shadow: inset 0 0 1em rgb(255, 0, 234), 0 0 1em rgb(191, 12, 245);
+   border: 2px solid #fff;
+   margin-right: 4%;
+   padding-bottom: 5%;
+   margin-top: 7%;
+   
+}
+
+.envolvepartesdapaginajogo .parte2jogo p{
+  color: white;
+    font-family: Inter,sans-serif;
+     font-weight: normal;
+     font-size: 18px;
+     line-height: 25px;
+     letter-spacing: -0.2px;
+     padding-left: 12%;
+  
+  
+}
+
+.envolvepartesdapaginajogo .parte2jogo span{
+  padding-left: 40%;
+}
+
+
+.requisitos{
+  color: gray;
+}
+
+#requisitosminimos{
+  color: gray;
+}
+
+
+.containermain .envolvepartesdapaginajogo .parte1jogo #divdaparte1 h1{
+  color: white;
+  font-size: 28px;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+#informaçoestecnicassobreojogo{
+  padding-top: 23%;
+}
+
+#informaçoestecnicassobreojogo p{
+  padding-left: 10%;
+}
+#requisitosminimos{
+  padding-left: 10%;
+}
+
+#lancamento{
+  padding-left: 4%;
+  color: gray;
+}
+#score{
+  padding-left: 4%;
+  color: gray;
+
+}
+
+#suportados{
+  padding-left: 4%;
+  color: gray;
+
+}
+#comprardaabajogo{
+  background-color: rgb(7, 3, 63);
+  width: 80%;
+ margin-left: 1%;
+ border-radius: 15px;
+ margin-top: 10%;
+ border: 1px solid white;
+ padding-left: 1px;
+ margin-bottom: 10%;
+ color: white;
+  height: 50px;
+  text-decoration: none;
+  padding-top: 2%;
+  font-family: 'Candal', sans-serif;
+}
+#comprardaabajogo:hover{
+background-color: green;
+}
+
+
+#literalmenteocomprardaabajogo a{
+ 
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+ 
+}
